@@ -18,7 +18,6 @@
     --dark-color: #1d182d;
     --light-color: #322f40;
     --text-color: hsl(0,0%,91%);
-
 }
 ::selection{
     color: var(--text-color);
