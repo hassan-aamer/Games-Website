@@ -348,9 +348,10 @@ header{
     justify-content: space-between;
     padding: 20px;
 }
-.copyright p{
+.copyright a{
     font-size: 0.9rem;
     color: var(--text-color);
+    font-weight: bold;
 }
 /* Download Page CSS */
 .video-container video{
